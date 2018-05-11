@@ -39,6 +39,10 @@ aside{
     /* .menu-opened{
         display: none;
     } */
+    .slider{
+        margin-top: -15px;
+        height: 600px !important;
+    }
 }
 
 /* CSS part DOM Manipulation & Effects : Slider */
